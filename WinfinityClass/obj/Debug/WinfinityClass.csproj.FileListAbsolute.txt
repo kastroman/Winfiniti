@@ -1,0 +1,5 @@
+C:\Users\Gokhan\Documents\WinfinitiCodes\Winfinity_Mvc\WinfinityClass\bin\Debug\WinfinityClass.dll
+C:\Users\Gokhan\Documents\WinfinitiCodes\Winfinity_Mvc\WinfinityClass\bin\Debug\WinfinityClass.pdb
+C:\Users\Gokhan\Documents\WinfinitiCodes\Winfinity_Mvc\WinfinityClass\obj\Debug\WinfinityClass.csprojResolveAssemblyReference.cache
+C:\Users\Gokhan\Documents\WinfinitiCodes\Winfinity_Mvc\WinfinityClass\obj\Debug\WinfinityClass.dll
+C:\Users\Gokhan\Documents\WinfinitiCodes\Winfinity_Mvc\WinfinityClass\obj\Debug\WinfinityClass.pdb
