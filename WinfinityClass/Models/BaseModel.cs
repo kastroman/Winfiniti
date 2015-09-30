@@ -8,7 +8,7 @@ namespace WinfinityClass
 {
    public class BaseModel
    {
-       #region Variables
+        #region Variables
       
         protected int key;
         protected bool isChanged;

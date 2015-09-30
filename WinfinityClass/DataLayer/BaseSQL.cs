@@ -15,6 +15,14 @@ namespace WinfinityClass
 {
    public class BaseSQL
     {
+//       In Git Bash do:
+
+//cd path\to\my\application
+//git init
+//Consider adding a .gitignore file, example here
+//git add . (this adds all files, except for those mentioned in .gitignore)
+//git commit -m "Initial commit"
+
         #region variables
         public  SqlConnection conn;
         public  SqlCommand cmd;
